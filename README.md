@@ -7,3 +7,5 @@ https://www.biorxiv.org/content/10.1101/2022.04.28.489874v1
 1) Use Metadata_Time script to get correct time per slice and frame out of metadata. 
 2) FrameToTime uses intensity per frame (obtained with ImageJ) together with output from previous script to make matrix with intensity and time in seconds
 3) IntensityvsTime_Edit makes the mean and individual plots of multiple measurements with the same stimuli. These plots are normalized in time and intensity.
+
+Matlab scripts written by Aniruddha Mitra
