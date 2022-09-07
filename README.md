@@ -1,4 +1,4 @@
-# Microfluidics-paper
+# Calcium Imaging Analysis 
 Matlab files used in the paper: 
 Differentiated dynamic response in C. elegans chemosensory cilia 
 by Christine W. Bruggeman, Guus H. Haasnoot, Noémie Danné, Jaap van Krugten and Erwin J.G. Peterman
