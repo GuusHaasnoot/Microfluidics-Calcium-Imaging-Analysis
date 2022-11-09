@@ -2,7 +2,7 @@
 Matlab files used in the paper: 
 Differentiated dynamic response in C. elegans chemosensory cilia 
 by Christine W. Bruggeman, Guus H. Haasnoot, Noémie Danné, Jaap van Krugten and Erwin J.G. Peterman
-https://www.biorxiv.org/content/10.1101/2022.04.28.489874v1
+DOI:https://doi.org/10.1016/j.celrep.2022.111471
 
 1) Use Metadata_Time script to get correct time per slice and frame out of metadata. 
 2) FrameToTime uses intensity per frame (obtained with ImageJ) together with output from previous script to make matrix with intensity and time in seconds
